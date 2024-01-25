@@ -4,7 +4,11 @@ Repo for Practicum 1 - Java Basics - The Import Statement
 
 **BACKGROUND**<br>
 When a Java program is executed and a new object is
-created, e.g., <br>`new Scanner(System.in)`<br><br> Java searches
+created, e.g., 
+
+`new Scanner(System.in)`
+
+Java searches
 for a file that contains the corresponding class,
 e.g., 
 
