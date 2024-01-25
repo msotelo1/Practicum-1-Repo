@@ -35,6 +35,5 @@ with the error message `Symbol Not Found: Scanner`.
 A symbol is a name, and not just a single character.
 
 **WHAT TO DO**<br>
-Execute the program and observe the error displayed. There are
-two combinations of lines 2, 7 and 8 that must be uncommented
-in order for the program to run.
+Modify the program WITHOUT adding an import statement
+in order to make the program sun as intended.
