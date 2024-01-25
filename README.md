@@ -7,7 +7,8 @@ When a Java program is executed and a new object is
 created, e.g., <br>`new Scanner(System.in)`<br><br> Java searches
 for a file that contains the corresponding class,
 e.g., 
-```Scanner.java```
+
+`Scanner.java`
 
 The first place it looks is in the files within
 the program project. If not found there, then is looks
