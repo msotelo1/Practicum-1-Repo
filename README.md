@@ -6,7 +6,7 @@ Repo for Practicum 1 - Java Basics - The Import Statement
 When a Java program is executed and a new object is
 created, e.g., 
 
-`new Scanner(System.in)`
+`Scanner input = new Scanner(System.in)`
 
 Java searches
 for a file that contains the corresponding class,
