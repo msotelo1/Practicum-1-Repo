@@ -1,6 +1,6 @@
-## Practicum-1-Repo
-Repo for Practicum 1 - Java Basics - The Import Statement
-# Understanding the Import Statement in Java
+# Instructions  
+
+## Practicum 1 - Understanding the import Statement in Java<br>
 
 **BACKGROUND**<br>
 When a Java program is executed and a new object is
