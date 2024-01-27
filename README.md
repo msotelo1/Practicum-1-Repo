@@ -36,4 +36,4 @@ A symbol is a name, and not just a single character.
 
 **WHAT TO DO**<br>
 Modify the program WITHOUT adding an import statement
-in order to make the program sun as intended.
+in order to make the program run as intended.
